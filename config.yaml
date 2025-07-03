@@ -22,18 +22,19 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "SLAM": 
-        filters: ["SLAM", "Visual Odometry"]
-    "SFM":
-        filters: ["SFM", "Structure from Motion"]
-    "Visual Localization":
-        filters: ["Visual Localization","Camera Localization",
-                  "Camera Re-localisation","Loop Closure Detection",
-                  "visual place recognition","image retrieval"]
-    "Keypoint Detection":
-        filters: ["Keypoint Detection", "Feature Descriptor"]
-    "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching", 
-                  "Line Segment Detection", "Local Feature Matching"]
-    "NeRF":
-        filters: ["NeRF"]
+    "Quantitative Trading": 
+        filters: ["Quantitative Trading", "Algorithmic Trading", "Automated Trading"]
+    "Financial Time Series":
+        filters: ["Financial Time Series", "Time Series Analysis", "Market Prediction"]
+    "Risk Management":
+        filters: ["Risk Management", "Portfolio Optimization", "Risk Assessment"]
+    "Machine Learning in Finance":
+        filters: ["Machine Learning", "Deep Learning", "AI in Finance", "Predictive Modeling"]
+    "Sentiment Analysis":
+        filters: ["Sentiment Analysis", "Market Sentiment", "News Sentiment"]
+    "High-Frequency Trading":
+        filters: ["High-Frequency Trading", "HFT", "Market Microstructure"]
+    "Trading Strategies":
+        filters: ["Trading Strategies", "Investment Strategies", "Quantitative Strategies"]
+
+
